@@ -24,7 +24,7 @@ To run this project locally, please follow these steps:
 1. **Clone the repository:** Open your terminal or command prompt and enter the following command: `git clone https://github.com/Fatemeh888/gesture-recognition-ai.git`.
 2. **Change to the project directory:** Navigate to the directory: `cd gesture-recognition-ai`.
 3. **Install dependencies:** Install the required libraries using `pip install -r requirements.txt`.
-4. **Run the main script:** Start the system with `python extracting-body-keypoints.py`.
+4. **Run the main script:** Start the system with `python extracting-body-points.py`.
 
 ### Note:
 Ensure that you have set up the **Python environment** correctly and that the required libraries are listed in the `requirements.txt` file.
