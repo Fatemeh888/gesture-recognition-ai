@@ -39,4 +39,4 @@ Fatemeh Lalehbeygi
 This project is licensed under the MIT License. For more information, see the LICENSE file.
 
 ## 📞 Contact
-For questions or suggestions, you can reach me at [samanehlale@gmail.com].
+For questions or suggestions, you can reach me at samanehlale@gmail.com.
